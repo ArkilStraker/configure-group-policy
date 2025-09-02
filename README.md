@@ -61,6 +61,6 @@ Unlocking a user account is a simple but essential admin task in Active Director
 
 </p>
 <p>
-Using Group Policy, you can enforce a desktop wallpaper across all domain-joined computers (or a specific group). Instead of users choosing their own background, the system applies the wallpaper you configure.
+Using Group Policy, you can enforce a desktop wallpaper across all domain-joined computers (or a specific group). Instead of users choosing their own background, the system applies the wallpaper you configure or power options oue create.
 </p>
 <br />
