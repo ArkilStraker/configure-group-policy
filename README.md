@@ -22,7 +22,8 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 
 <h2>High-Level Steps</h2>
 
-- Configure Group Policy to Lockout the account after 3 attempts
+- Configure Group Policy to set wallpaper and Power options
+- Configure Group Policy to Lockouts account after 3 attempts
 - Unlock users account
 - Step 3
 - Step 4
@@ -39,8 +40,8 @@ By configuring the Account Lockout Policy in Group Policy, you limit the number 
 </p>
 <br />
 
-<p>
-<img width="404" height="561" alt="image" src="https://github.com/user-attachments/assets/3018f50a-173b-4762-8ed5-33e2364f5cb8" />
+<p><img width="401" height="557" alt="image" src="https://github.com/user-attachments/assets/fbacb073-f54d-4091-8ea2-c3b838452e1b" />
+
 
 </p>
 <p>
@@ -49,9 +50,17 @@ Unlocking a user account is a simple but essential admin task in Active Director
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="300" height="333" alt="image" src="https://github.com/user-attachments/assets/16fea6c3-3133-479b-bf0a-7b3b94f7c68c" /> 
+<img width="427" height="222" alt="image" src="https://github.com/user-attachments/assets/c2dc3f46-b990-4be5-8ad5-8f36a850a7a9" /> <img width="341" height="271" alt="image" src="https://github.com/user-attachments/assets/05450785-6132-463b-87bc-6f38584e69d8" />
+<img width="392" height="236" alt="image" src="https://github.com/user-attachments/assets/7a10259d-45f5-4caa-85ba-73d8941b7383" /> <img width="231" height="447" alt="image" src="https://github.com/user-attachments/assets/1aa4ca81-8fb4-40ae-a3b9-1210bdda4fa4" />
+<img width="386" height="176" alt="image" src="https://github.com/user-attachments/assets/8c83b8e9-2214-4f50-a925-dc09bca6dc30" /> <img width="533" height="351" alt="image" src="https://github.com/user-attachments/assets/f6b57981-9c8b-4cb2-8a89-b5a5541ab30e" />
+
+
+
+
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Using Group Policy, you can enforce a desktop wallpaper across all domain-joined computers (or a specific group). Instead of users choosing their own background, the system applies the wallpaper you configure.
 </p>
 <br />
