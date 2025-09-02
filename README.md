@@ -4,7 +4,7 @@
 </p>
 
 <h1>Configuring Active Directory Group Policies and Managing Accounts</h1>
-In this tutorial, we observe various network traffic to and from Azure Virtual Machines with Wireshark as well as experiment with Network Security Groups. <br />
+In this tutorial, we explore how Group Policy is used to manage user and computer accounts within an Active Directory domain. We configure password policies, account lockout thresholds, and login restrictions to strengthen domain security. <br />
 
 
 <h2>Environments and Technologies Used</h2>
