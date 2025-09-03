@@ -18,7 +18,7 @@ In this tutorial, we explore how Group Policy is used to manage user and compute
 - Windows Server 2022
 - Windows 11 Pro (21H2)
 
-<h2>High-Level Deployment and Configuration Steps</h2>
+<h2>Configuration Steps</h2>
 
 - Configure Group Policy to set wallpaper and Power options
 - Configure Group Policy to Lockouts account after 3 attempts
