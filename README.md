@@ -34,7 +34,7 @@ In this tutorial, we explore how Group Policy is used to manage user and compute
 
 </p>
 <p>
-Using Group Policy, you can enforce a desktop wallpaper across all domain-joined computers (or a specific group). Instead of users choosing their own background, the system applies the wallpaper you configure or power options oue create.
+ In this lab, we used Group Policy to enforce desktop wallpaper settings and create a new power options configuration across the entire domain. By applying these settings centrally, all domain-joined computers automatically inherited the policies without requiring local configuration. This lab demonstrated the power of Group Policy as a centralized management tool for Active Directory environments, enabling administrators to enforce uniform configurations, improve security, and streamline IT operations.
 </p>
 <br />
 
@@ -49,7 +49,6 @@ By configuring the Account Lockout Policy in Group Policy, you limit the number 
 <br />
 
 <p><img width="401" height="557" alt="image" src="https://github.com/user-attachments/assets/fbacb073-f54d-4091-8ea2-c3b838452e1b" />
-
 
 </p>
 <p>
